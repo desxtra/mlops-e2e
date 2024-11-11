@@ -2,9 +2,9 @@
     "projectName": "mlops-e2e",
     "repoType": "git",
     "git": {
-        "githubConnectionArn": "",
-        "githubRepoOwner": "",
-        "githubRepoName": ""
+        "githubConnectionArn": "arn:aws:codeconnections:us-east-1:834549009763:connection/9a46caa4-b4ce-43f7-914e-e4ba038dfa71",
+        "githubRepoOwner": "desxtra",
+        "githubRepoName": "mlops-e2e"
     },
     "modelEndpointExportNamePrefix": "ModelHostingEndpoint",
     "ipPermitList": [
